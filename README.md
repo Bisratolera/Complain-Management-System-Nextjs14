@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+# NEXTJS14 + TYPESCRIPT + MYSQL + SHADCN-UI
 ## Getting Started
 
 First, run the development server:
