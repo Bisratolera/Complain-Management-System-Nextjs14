@@ -1,4 +1,4 @@
-# NEXTJS14 + TYPESCRIPT + MYSQL + SHADCN-UI
+# NEXT.JS14 + TYPE SCRIPT + MYSQL + SHADCN-UI
 ## Getting Started
 
 First, run the development server:
